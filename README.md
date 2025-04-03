@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xiaolongm0
 - 👀 I’m interested in machine learning and distributed computer system
-- 🌱 I’m currently working on my Ph.D. at University of Nevada, Reno CS department
+- 🌱 I’m currently working as a Postdoc Researcher at Argonne National Laboratory, Data Science and Learning Division
 - 💞️ I’m looking to collaborate on machine learning system and AI4Science related projects
 - 📫 How to reach me ... e-mail me at mxlunr@gmail.com
 
